@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/conformal/btcec"
-	"github.com/conformal/btcnet"
-	. "github.com/conformal/btcutil"
+	"github.com/hlandauf/btcnet"
+	. "github.com/hlandauf/btcutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

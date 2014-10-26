@@ -9,9 +9,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/conformal/btcscript"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/hlandauf/btcscript"
+	"github.com/hlandauf/btcutil"
+	"github.com/hlandauf/btcwire"
 )
 
 // ln2Squared is simply the square of the natural log of 2.

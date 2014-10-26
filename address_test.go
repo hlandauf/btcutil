@@ -13,9 +13,9 @@ import (
 
 	"code.google.com/p/go.crypto/ripemd160"
 
-	"github.com/conformal/btcnet"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/hlandauf/btcnet"
+	"github.com/hlandauf/btcutil"
+	"github.com/hlandauf/btcwire"
 )
 
 // invalidNet is an invalid bitcoin network.

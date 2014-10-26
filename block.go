@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/conformal/btcwire"
+	"github.com/hlandauf/btcwire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out
