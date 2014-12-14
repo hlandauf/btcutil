@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/davecgh/go-spew/spew"
 	"github.com/hlandauf/btcutil"
 	"github.com/hlandauf/btcwire"
-	"github.com/davecgh/go-spew/spew"
 )
 
 // TestTx tests the API for Tx.

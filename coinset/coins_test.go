@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"testing"
 
+	"github.com/conformal/fastsha256"
 	"github.com/hlandauf/btcutil"
 	"github.com/hlandauf/btcutil/coinset"
 	"github.com/hlandauf/btcwire"
-	"github.com/conformal/fastsha256"
 )
 
 type TestCoin struct {
